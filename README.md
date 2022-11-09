@@ -1,3 +1,5 @@
+# UNDERGOING A FULL REWRITE. [THIS IS A CONTINUED PROJECT FROM MY OTHER GITHUB ACCOUNT: SoMrshIsCool]
+
 # SCiPNET Terminal
 v1.0.0 - BETA
 *Let me know if there are any errors, bugs, or glitches!*
